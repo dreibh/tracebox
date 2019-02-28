@@ -1,9 +1,9 @@
-tracebox (0.4.4~td1.1-1ubuntu1) cosmic; urgency=medium
+tracebox (0.4.4~td1.2-1ubuntu1) disco; urgency=medium
 
   * Initial Debian release (Closes: #xxxxxx).
   * Initial Ubuntu release (LP: #xxxxxx).
 
- -- Thomas Dreibholz <dreibh@iem.uni-due.de>  Mon, 20 Aug 2018 09:09:09 +0100
+ -- Thomas Dreibholz <dreibh@iem.uni-due.de>  Mon, 25 Feb 2019 09:09:09 +0100
 
 tracebox (0.4.4) experimental; urgency=low
 

@@ -1,5 +1,5 @@
 Name:           tracebox
-Version:        0.1~td4.1
+Version:        0.4.4~td1.2
 Release:        1%{?dist}
 Summary:        -
 
