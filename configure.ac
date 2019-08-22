@@ -1,5 +1,4 @@
-AC_INIT([tracebox], [0.4.4~td1.2], [olivier.tilmans@uclouvain.be],
-		[tracebox], [http://tracebox.org])
+AC_INIT([tracebox], [0.4.4~td1.4], [olivier.tilmans@uclouvain.be], [tracebox], [http://tracebox.org])
 AC_CONFIG_SRCDIR([src/tracebox/tracebox.cc])
 AC_PREREQ([2.59])
 AM_INIT_AUTOMAKE([1.10 tar-pax -Werror -Wall no-define foreign])

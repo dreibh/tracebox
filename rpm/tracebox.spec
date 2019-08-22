@@ -1,6 +1,6 @@
 Name:           tracebox
-Version:        0.4.4~td1.2
-Release:        1%{?dist}
+Version:        0.4.4~td1.4
+Release:        1
 Summary:        -
 
 Group:          Applications/Internet
